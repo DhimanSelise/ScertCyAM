@@ -1,0 +1,46 @@
+{
+    
+    "default":{
+        "email":"kawsar.ahmed@selise.ch",
+        "pass":"1qazZAQ!",
+        "address":"MIDAS Center"
+    },
+    "URL":{
+        "dev":"scert.seliselocal.com",
+        "local":"scert.seliselocal.com:4200"
+    },
+    
+    "login":{
+        "email":"kawsar.ahmed@selise.ch",
+        "password":"1qazZAQ!",
+        "language":"English"
+    },
+    "client":{
+        "name": "Dhiman Sarker11",
+        "nickName" : "Dhimu",
+        "address" : "MIDAS Center", 
+
+        "manufacturer":{ 
+            "name": "Lallu Mia" , 
+            "contactPerson" : "Boltu Da", 
+            "email" : "Lallu@youpmail.com",
+            "id" : 123456 , 
+            "phone" : "+8801684216333",
+            "address" :"MIDAS Center" 
+        } ,
+        
+        "site":{
+            "name" : "Site Name" , 
+            "manufacturerName" : "Manu Dada", 
+            "siteResponsible" : "Kew Dayi Noy", 
+            "id" : 420 , 
+            "address" :"MIDAS Center"
+        }, 
+        "sign":{
+            "person1":"Randy Alvez", 
+            "person2":"Simon Baker"
+        }
+
+
+    }
+}
